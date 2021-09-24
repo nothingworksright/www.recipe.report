@@ -1,3 +1,3 @@
-# github-pages-tempate  
+# www.recipe.report  
 
-🌐 GitHub Pages repository template.  
+🌐 GitHub Pages repository for [www.recipe.report](https://www.recipe.report).  
