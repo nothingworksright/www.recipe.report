@@ -10,7 +10,7 @@ div.centered {
 div.centered p {
   margin: 0
 }
-div.logo {
+span.logo {
   display: block;
   unicode-bidi: embed;
   font-family: monospace;
