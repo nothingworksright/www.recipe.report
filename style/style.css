@@ -21,3 +21,16 @@ h1.tagline {
   color: #f92672;
   display: block;
 }
+a {
+  color: #ffd866;
+  text-decoration: none;
+  background-color: transparent;
+  outline: none;
+  cursor: pointer;
+}
+a:hover {
+  color: #ffd866;
+}
+a:active {
+  color: #bab6ab;
+}
