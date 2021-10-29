@@ -11,5 +11,8 @@ div.centered p {
   margin: 0
 }
 div.logo {
-  margin: 0 auto;
+  display: block;
+  unicode-bidi: embed;
+  font-family: monospace;
+  white-space: pre;
 }
