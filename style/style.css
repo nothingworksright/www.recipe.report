@@ -17,3 +17,6 @@ span.logo {
   font-family: 'Cutive Mono', monospace;
   white-space: pre;
 }
+span.tagline {
+  color: #f92672;
+}
