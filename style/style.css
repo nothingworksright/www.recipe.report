@@ -10,3 +10,6 @@ div.centered {
 div.centered p {
   margin: 0
 }
+div.logo {
+  margin: 0 auto;
+}
