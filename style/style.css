@@ -3,7 +3,6 @@ body {
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
   font-size: 14px;
   color: #d6d6d6;
-  line-height: 1.5715;
 }
 div.centered {
   height: 100vh;
@@ -12,6 +11,7 @@ div.centered {
   justify-content: center
 }
 span.logo {
+  color: #66d9ef;
   display: block;
   unicode-bidi: embed;
   font-family: 'Cutive Mono', monospace;
