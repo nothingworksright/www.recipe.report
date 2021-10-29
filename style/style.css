@@ -5,10 +5,11 @@ body {
   color: #d6d6d6;
 }
 div.centered {
-  position: absolute;
-  left: 50%;
-  top: 50%;
-  transform: translate(-50%, -50%);
+  width: 500px;
+  height: auto;
+  margin: 0 auto;
+  padding: 10px;
+  position: relative;
 }
 span.logo {
   color: #66d9ef;
