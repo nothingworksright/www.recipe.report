@@ -1,5 +1,5 @@
 body {
-  font-family: 'Cutive Mono', monospace;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
 }
 div.centered {
   height: 100vh;
@@ -7,12 +7,9 @@ div.centered {
   align-items: center;
   justify-content: center
 }
-div.centered p {
-  margin: 0
-}
 span.logo {
   display: block;
   unicode-bidi: embed;
-  font-family: monospace;
+  font-family: 'Cutive Mono', monospace;
   white-space: pre;
 }
