@@ -5,8 +5,6 @@ body {
   color: #d6d6d6;
 }
 div.centered {
-  height: 100vh;
-  display: flex;
   align-items: center;
   justify-content: center
 }
