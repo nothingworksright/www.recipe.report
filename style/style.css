@@ -13,6 +13,7 @@ span.logo {
   display: block;
   unicode-bidi: embed;
   font-family: 'Cutive Mono', monospace;
+  font-weight: bold;
   white-space: pre;
 }
 h1.tagline {
