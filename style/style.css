@@ -19,4 +19,5 @@ span.logo {
 }
 span.tagline {
   color: #f92672;
+  display: block;
 }
