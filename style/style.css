@@ -8,14 +8,6 @@ div.centered {
   max-width: 500px;
   margin: 0 auto;
 }
-span.logo {
-  color: #66d9ef;
-  display: block;
-  unicode-bidi: embed;
-  font-family: 'Cutive Mono', monospace;
-  font-weight: bold;
-  white-space: pre;
-}
 h1.tagline {
   font-size: calc(1.425rem + 2.1vw);
   color: #f92672;
