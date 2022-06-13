@@ -17,6 +17,7 @@ span.logo {
   white-space: pre;
 }
 h1.tagline {
+  font-size: calc(1.425rem + 2.1vw);
   color: #f92672;
   display: block;
 }
